@@ -43,7 +43,7 @@ CREATE TABLE `daftar_siswa` (
 --
 
 INSERT INTO `daftar_siswa` (`nis`, `nama`, `kelas`, `alamat`, `tanggal_lahir`, `jenis_kelamin`, `telepon`) VALUES
-('15160432', 'Dwi Candra Permana', 'XII RPL 3', 'Purwokerto Utara', '2000-05-09', 'l', '082121824775');
+('15160432', 'Dwi Candra Permana', 'XII RPL 3', 'Purwokerto Utara', '2000-05-09', 'L', '082121824775');
 
 --
 -- Indexes for dumped tables
