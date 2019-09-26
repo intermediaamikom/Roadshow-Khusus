@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 26 Sep 2019 pada 15.36
+-- Waktu pembuatan: 26 Sep 2019 pada 17.44
 -- Versi server: 10.1.37-MariaDB
 -- Versi PHP: 7.3.0
 
@@ -43,7 +43,8 @@ CREATE TABLE `daftar_siswa` (
 --
 
 INSERT INTO `daftar_siswa` (`nis`, `nama`, `kelas`, `alamat`, `tanggal_lahir`, `jenis_kelamin`, `telepon`) VALUES
-('15160432', 'Dwi Candra Permana', 'XII RPL 3', 'Purwokerto Utara', '2000-05-09', 'L', '082121824775');
+('15160432', 'Dwi Candra Permana', 'XII RPL 2', 'Purwokerto Utara', '2000-05-09', 'L', '082121824775'),
+('15160441', 'Nuryah Afni', 'XI RPL 2', 'Chayya Chayya', '2019-09-02', 'P', '08854628493');
 
 --
 -- Indexes for dumped tables
